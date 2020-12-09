@@ -5,5 +5,7 @@ The only thing you need to do is download the yolo2coco.py and change the text w
 I used yolo2coco.py to get the json file and have successfully run the repositories like:
 
 nanodet: https://github.com/RangiLyu/nanodet
+
 CenterTrack: https://github.com/xingyizhou/CenterTrack
+
 EfficientDet: https://github.com/zylo117/Yet-Another-EfficientDet-Pytorch
